@@ -1,0 +1,2 @@
+rootProject.name = "Keyboard Samples"
+include ':app'
